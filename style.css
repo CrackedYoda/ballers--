@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chango&family=Poppins:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chango&family=Poppins:wght@300&display=swap');
+ 
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+	
+}
+
+nav{
+	width: 100%;
+	height: 75px;
+	background-color:#F901D0;
+	line-height: 75px;
+	padding:0px 50px;
+
+}
+nav {
+	
+	font-weight: bold;
+	letter-spacing: 1.5px; 
+	color:#fff;
+	text-transform: uppercase;
+}
+.logo .blogo{
+	width: 100px;
+	float: left;
+}
+ .logo p {
+font-size: 25px;
+	float: left;
+	font-family: 'Chango', cursive;
+}
+
+nav{
+
+	position: fixed;
+	z-index: 1;
+}
+nav ul li{
+
+}
+nav ul li{
+	display: inline-block;
+	list-style: none;
+	
+}
+nav ul li a{
+	color:#fff;
+	text-decoration: none;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding:0px 30px;
+}
+nav ul li a:hover{
+	color:#c0d96f;
+}
+
+
+
+.pinkball{
+padding-top: 50px;
+padding-left: 35%;
+
+}
+
+.bubbly{
+
+	width: 500px;
+
+}
+
+section{
+margin-left: 50px;
+margin-right: 50px;
+padding-top: 30px;
+width: auto;
+font-family: 'poppins';
+padding-bottom: 60px;
+
+
+
+}
+
+.textt{
+
+	font-family:'Chango', cursive;
+	font-size: 40px;
+	color: #F901D0;
+	text-align: center;
+}
+
+section h1 {
+font-family: 'Chango', cursive;
+
+}
+.join{
+
+text-decoration: none;
+background-color: #F901D0;
+border-radius: 50px;
+color: #fff;
+padding: 30px;
+}
+
+.jones{
+padding-top: 50px;
+padding-bottom: 50px;
+padding-right: 15px;
+width: 70%;
+
+
+}
+
+ .carl {
+
+	text-align: center;
+	font-size: smaller;
+	background-color: #F901D0;
+border-radius: 50px;
+color: #fff;
+display: none;
+	
+}
+
+.firstsec{
+
+background-image: url('./h3-artwork.png');
+z-index: -1;
+border-bottom: 500px;
+padding-bottom:100px;
+margin: 0%;
+}
+
+
+
+.carousel-inner{
+padding-left: 37%;
+position: sticky;
+}
+.misc{
+
+
+background-image: url("background-top.jpg") ;
+width: 100%;
+margin: 0%;
+height: 2000px;
+padding-bottom: 80px;
+margin-bottom: 80px;
+position: static;
+
+}
+.misc .misctext{
+
+color: white;
+font-family: 'Chango', cursive;
+
+font-family: 'Poppins', sans-serif;
+text-align: center;
+font-size: 25px;
+padding-top: 50px;
+font-weight: 700;
+margin-left: 50px;
+margin-right: 50px;
+
+}
+.carousel-item .slide{
+
+	width: 400px;
+}
+.misc .miscd{
+
+padding-top: 20%;
+
+}
+
+.final{
+
+	max-width: 100%;
+}
